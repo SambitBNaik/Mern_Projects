@@ -2,7 +2,7 @@
     display: flex;
     background-color: #D4E3F4;
     align-items:center;
-    margin-top:4px;
+    margin-top:2px;
     margin-left:2px;
     border-top:1px solid #ccc;
     border-top-left-radius:4px;
@@ -48,4 +48,11 @@
     cursor: pointer;
     padding: 0;
     box-sizing: border-box;
+}
+
+
+.outer-boder{
+    display:flex;
+    flex-direction:column;
+    border-box:1px solid #CFCFCF;
 }

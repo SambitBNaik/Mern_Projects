@@ -21,7 +21,7 @@ const SideNavbar = () => {
         </div>
         </div>
         <div className='z-panel-body'>
-          <div>
+          <div className='outer-border'>
             
           </div>
         </div>
